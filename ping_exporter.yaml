@@ -5,7 +5,7 @@ targets:
 dns:
   # enforce a specific DNS server for host name lookups (optional,
   # defaults to system resolver)
-  #nameserver: 1.1.1.1
+  #nameserver: 10.13.32.99
 
   # refresh interval for host name (optional)
   #refresh: 2m45s
